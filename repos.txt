@@ -12,3 +12,5 @@ fossasia/eventyay-interpretation
 fossasia/eventyay-exhibition
 fossasia/eventyay-stripe
 fossasia/eventyay-teamshifts
+
+YASHK-arch/notif.iss
