@@ -14,3 +14,4 @@ fossasia/eventyay-stripe
 fossasia/eventyay-teamshifts
 
 YASHK-arch/notif.iss
+YASHK-arch/RepoOwl-extension
