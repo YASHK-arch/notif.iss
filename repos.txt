@@ -4,3 +4,11 @@
 # Examples:
 # first-contributions/first-contributions
 # https://github.com/EddieHubCommunity/BioDrop  notify-existing
+
+fossasia/visdom
+fossasia/eventyay
+fossasia/voxbento
+fossasia/eventyay-interpretation
+fossasia/eventyay-exhibition
+fossasia/eventyay-stripe
+fossasia/eventyay-teamshifts
