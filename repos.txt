@@ -1,0 +1,6 @@
+# One repo per line (owner/name or full GitHub URL). Commit changes to start/stop tracking.
+# Add "notify-existing" after a repo to also get emailed about its currently-open good first issues once.
+#
+# Examples:
+# first-contributions/first-contributions
+# https://github.com/EddieHubCommunity/BioDrop  notify-existing
